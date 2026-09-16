@@ -1,1 +1,105 @@
-
+name": "LSNguyen iPA",
+  "identifier": "com.lsnguyyn.featjer",
+  "subtitle": "LSNguyen iPA help you a lots!",
+  "description": "full of tool mobilegestalt",
+  "tintColor": "#3B86F7",
+  "iconURL": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0055.png",
+  "headerURL": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0055.png",
+  "apps": [
+    {
+      "name": "3105",
+      "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+      "developerName": "YangJiii",
+      "subtitle": "An iOS content hub and manager for patches, app data, dialer themes, and PosterBoard wallpapers.",
+      "localizedDescription": "An iOS content hub and manager for patches, app data, dialer themes, and PosterBoard wallpapers, using cert not Livecontainer or Sidestore",
+      "iconURL": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0055.png",
+      "tintColor": "#3B86F7",
+      "size": 192332,
+      "screenshots": {
+        "iphone": [
+          {
+            "width": 1290,
+            "height": 2796,
+            "imageURL": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0055.png"
+          },
+          {
+            "width": 1290,
+            "height": 2796,
+            "imageURL": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0055.png"
+          },
+          {
+            "width": 1290,
+            "height": 2796,
+            "imageURL": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0055.png"
+          }
+        ]
+      },
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "StikDebug needs access to devices on your local network so it can connect to the ip of the target device.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your connection. This can be turned off in settings.",
+          "NSLocationWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your connection. This can be turned off in settings."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.1.10",
+          "date": "2026-08-27",
+          "localizedDescription": "Full Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.9...3.1.10\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.9...3.1.10",
+          "downloadURL": "https://github.com/nguyenls3005-cell/LSNguyen-repo/blob/main/packages/3105-2.0-unsigned.ipa",
+          "size": 4604223,
+          "minOSVersion": "17.4"
+        }
+      ]
+    },
+    {
+      "name": "StikPair",
+      "bundleIdentifier": "com.stik.StikPair",
+      "developerName": "StikDebug",
+      "subtitle": "Requires iOS 27+",
+      "localizedDescription": "A simple SwiftUI iOS app that creates a pairing file on-device, using iOS 27+ wireless pairing.  Note: Requires iOS 27+.",
+      "iconURL": "https://github.com/StikDebug/StikPair/blob/main/App/Assets.xcassets/AppLogo.imageset/StikPair-iOS-Default-1024%401x.png?raw=true",
+      "tintColor": "#3B86F7",
+      "size": 7581073,
+      "screenshots": {
+        "iphone": [
+          {
+            "width": 1290,
+            "height": 2796,
+            "imageURL": "https://stikdebug.xyz/assets/source/pair1.png"
+          },
+          {
+            "width": 1290,
+            "height": 2796,
+            "imageURL": "https://stikdebug.xyz/assets/source/pair2.png"
+          },
+          {
+            "width": 1290,
+            "height": 2796,
+            "imageURL": "https://stikdebug.xyz/assets/source/pair3.png"
+          }
+        ]
+      },
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "StikPair needs access to devices on your local network so the it can pair with your device.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "StikPair uses location to stay running in the background. This can be turned off in the main view.",
+          "NSLocationWhenInUseUsageDescription": "StikPair uses location to stay running in the background and maintain your connection. This can be turned off in the main view."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2026-08-25",
+          "localizedDescription": "Added Apple TV wireless pairing.",
+          "downloadURL": "https://github.com/StikDebug/StikPair/releases/download/v1.2.0/StikPair.ipa",
+          "size": 7735750,
+          "minOSVersion": "27.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
